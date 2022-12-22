@@ -11,11 +11,11 @@
 #define SSID_DEFAULT "SOICT_CORE_BOARD"
 
 // http://siot.soict.ai/devices/hb20211223
-#define KEY "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJkYzAyZjEyMi0yMTVlLTRjOTYtYWM1Ni02OGY3NTU5NzBjYzYiLCJpYXQiOjE2NjgxMzk3Mzh9.S_PsbIgdf60nGfp-R46qbGAvaTDxnXLc-YFwN1cR0IE"
+#define KEY "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJhODE0NDNlZi1lMWNjLTQ0Y2YtYTE1Ny03Y2U2MmIwOWVlN2QiLCJpYXQiOjE2NzE2MzA3MDV9.v4iBfaepgb5oKXuWeDpTgXE9d-vxysQE-C7LGYv_SQQ"
 #define CONTENT_TYPE "application/json"
 #define Platform "Rev4"
 
-#define URL_ID "http://siot.soict.ai/api/devices/reader_rs232_to_rs485-2wunb/attributes/id-52a5e"
+#define URL_ID "http://siot.soict.ai/api/devices/reader_rs232_to_rs485-r3p1v/attributes/id-unb9n"
 //#define URL_TURNONTIME "http://siot.soict.ai/api/devices/hb20211223/attributes/turnontime-qmri2"
 //#define URL_EATING  "http://siot.soict.ai/api/devices/hb20211223/attributes/eating-j8ov5"
 //#define URL_DISTANCE  "http://siot.soict.ai/api/devices/hb20211223/attributes/distance-pz1q8"
